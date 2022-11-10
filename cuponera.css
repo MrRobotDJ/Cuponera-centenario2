@@ -1,6 +1,10 @@
 *{
     background-image: url(https://onbase.centenario.com.pe/9SF_formresources/Images/background.png); 
  }
+ body{
+    margin: 0 auto; 
+    max-width: 1366px;
+ }
  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
  .container{
     display: flex;
